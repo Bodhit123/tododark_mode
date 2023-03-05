@@ -15,7 +15,7 @@ const themeObject = {
 
   dark: {
     background: {
-      default: "darkblue",
+      default: "purple",
     },
   },
 };
